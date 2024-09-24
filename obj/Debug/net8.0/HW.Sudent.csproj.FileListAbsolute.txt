@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\HW.Sudent\HW.Sudent\bin\Debug\net8.0\HW.Sudent.exe
+C:\Users\Rog\source\repos\HW.Sudent\HW.Sudent\bin\Debug\net8.0\HW.Sudent.deps.json
+C:\Users\Rog\source\repos\HW.Sudent\HW.Sudent\bin\Debug\net8.0\HW.Sudent.runtimeconfig.json
+C:\Users\Rog\source\repos\HW.Sudent\HW.Sudent\bin\Debug\net8.0\HW.Sudent.dll
+C:\Users\Rog\source\repos\HW.Sudent\HW.Sudent\bin\Debug\net8.0\HW.Sudent.pdb
+C:\Users\Rog\source\repos\HW.Sudent\HW.Sudent\obj\Debug\net8.0\HW.Sudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW.Sudent\HW.Sudent\obj\Debug\net8.0\HW.Sudent.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW.Sudent\HW.Sudent\obj\Debug\net8.0\HW.Sudent.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW.Sudent\HW.Sudent\obj\Debug\net8.0\HW.Sudent.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.Sudent\HW.Sudent\obj\Debug\net8.0\HW.Sudent.dll
+C:\Users\Rog\source\repos\HW.Sudent\HW.Sudent\obj\Debug\net8.0\refint\HW.Sudent.dll
+C:\Users\Rog\source\repos\HW.Sudent\HW.Sudent\obj\Debug\net8.0\HW.Sudent.pdb
+C:\Users\Rog\source\repos\HW.Sudent\HW.Sudent\obj\Debug\net8.0\HW.Sudent.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW.Sudent\HW.Sudent\obj\Debug\net8.0\ref\HW.Sudent.dll
